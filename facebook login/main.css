@@ -1,0 +1,149 @@
+.header {
+    background-color: #3b5998;
+    width: 100%;
+    height: 85px;
+}
+
+.logo_text {
+    color: white;
+    font-family: Arial, Helvetica, "sans-serif";
+    font-weight: bold;
+    margin-left: 170px;
+    font-size: 18px;
+}
+
+
+body {
+    margin: 0;
+}
+
+.logo {
+    width: 50%;
+    padding-top: 32px;
+    float: left;
+}
+
+.logo_right {
+    width: 40%;
+    float: right;
+
+}
+
+.login {
+    font-family: sans-serif;
+    font-weight: bold;
+    color: white;
+    font-size: 14px;
+    padding-top: 10px;
+
+}
+
+.an {
+    text-decoration: none;
+    color: white;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+.sub:hover {
+    color: rgb(0, 0, 255);
+    background-color: wheat;
+}
+
+.an:hover {
+    color: black;
+}
+
+
+
+.email {
+    border-radius: 3px;
+
+}
+
+.pass {
+    border-radius: 3px;
+}
+
+.m {
+    margin-top: 8px;
+    padding: 5px;
+    width: 330px;
+    border-radius: 5px;
+}
+
+.n {
+    margin-top: 8px;
+    padding: 5px;
+    width: 330px;
+    border-radius: 5px;
+}
+
+.left-section {
+    width: 50%;
+    float: left;
+    margin-left: 35px;
+    padding-left: 105px;
+}
+
+.right-section {
+    width: 40%;
+    float: left;
+}
+
+.main-body {
+    background: linear-gradient(white, #D3D8E8);
+    width: 100%;
+
+}
+
+.paa {
+    color: black;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+.img {
+    width: 580px;
+    opacity: 22px;
+}
+
+h3 {
+    font-weight: bold;
+    font-family: sans-serif;
+    font-size: 25px;
+}
+
+.pan {
+    font-family: sans-serif;
+    font-size: 14px;
+    font-weight: 15px;
+}
+
+.First {
+    border-radius: 3px;
+    padding: 2px;
+
+}
+
+.Surname {
+    border-radius: 3px;
+    padding: 2px;
+}
+
+.nu {
+    border-radius: 3px;
+    padding: 2px;
+}
+
+.mon {
+    border-radius: 2px;
+    padding: 2px;
+}
+
+button {
+    border-radius: 2px;
+    padding: 5px;
+    width: 150px;
+    background-color: green;
+}
