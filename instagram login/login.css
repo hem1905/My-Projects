@@ -1,0 +1,147 @@
+body {
+    margin: 0;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+
+h2 {
+    font-family: Segoe UI, 'Tahoma', Geneva, Verdana, sans-serif;
+}
+
+.box {
+    border: 1px solid black;
+    align-items: center;
+    /* left: 56px; */
+    margin-left: 587px;
+    margin-right: 362px;
+    margin-top: 27px;
+    width: 348px;
+    height: 443px;
+
+}
+
+.sec-box {
+    border: 1px solid black;
+    align-items: center;
+    /* left: 56px; */
+    margin-left: 587px;
+    margin-right: 362px;
+    margin-top: 27px;
+    width: 348px;
+    height: 56px;
+}
+
+.i {
+    width: 18px;
+    padding-top: 2px;
+    margin-bottom: -3px;
+    text-decoration: none;
+
+}
+
+.login {
+    margin-top: 7px;
+    text-decoration: none;
+    color: #3b5998;
+    font-family: 'sans-serif';
+    font-weight: bold;
+
+}
+
+.in {
+    width: 105px;
+    padding-top: 4px;
+}
+
+.inn {
+    width: 95px;
+    padding-top: 4px;
+}
+
+.hr {
+    width: 95px;
+    margin-top: 42px;
+
+    margin-left: 63px;
+}
+
+.p-t {
+    margin-top: -18px;
+}
+
+.hrr {
+    width: 95px;
+    margin-bottom: 10px;
+    margin-top: -25px;
+    margin-left: 189px;
+}
+
+.t {
+    width: 250px;
+    padding: 7px;
+    padding-top: 5px;
+    margin-top: 15px;
+    border-style: none;
+    border: 1px solid black;
+    border-radius: 3px;
+}
+
+.pass {
+    width: 250px;
+    padding: 7px;
+    padding-top: 5px;
+    margin-top: 5px;
+    background-color: white;
+    border-style: none;
+    border: 1px solid black;
+    border-radius: 3px;
+
+}
+
+.sub {
+    width: 275px;
+    padding: 7px;
+    padding-top: 8px;
+    margin-top: 5px;
+}
+
+.su {
+    width: 275px;
+    padding: 7px;
+    padding-top: 5px;
+    margin-top: 10px;
+    border-radius: 8px;
+    background-color: rgb(85, 194, 227);
+    color: white;
+}
+
+
+.fo {
+    text-decoration: none;
+    margin-top: 10px;
+    top: 15px;
+    padding-top: 10px;
+}
+
+.para {
+    text-decoration: none;
+    padding-top: 5px;
+
+}
+
+.para-text {
+    margin-bottom: 5px;
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+
+}
+
+.sign {
+    color: rgb(11, 191, 246);
+    font-weight: bold;
+    text-decoration: none;
+    font-family: 'sans-serif';
+
+}
